@@ -28,7 +28,9 @@
         android:id="@+id/button_save"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:background="@color/buttonColor"
-        android:text="@string/button_save"/>
+        android:background="@color/black"
+        android:text="@string/button_save"
+        android:textColorHighlight="#FF0000"
+        android:textColorLink="#FF0000" />
 
 </LinearLayout>
